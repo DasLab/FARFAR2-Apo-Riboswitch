@@ -1,0 +1,5 @@
+cmd.color('blue', 'resi 1+45+2+44+3+43+4+42+5+41+6+40+7+39')
+cmd.color('raspberry', 'resi 10+36+11+35')
+cmd.color('palegreen', 'resi 12+66+13+65+14+64+15+63')
+cmd.color('orange', 'resi 20+33+21+32+22+31+23+30+24+29')
+cmd.color('teal', 'resi 57+71+58+70+59+69')
